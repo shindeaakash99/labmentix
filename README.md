@@ -1,2 +1,0 @@
-# labmentix
-internship files
